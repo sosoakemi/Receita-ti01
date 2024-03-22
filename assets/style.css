@@ -19,9 +19,8 @@
   div img {
     width: 100%;
     border-radius: 12px;
-    margin-bottom: 40px';
-
- }
+    margin-bottom: 40px;
+}
   h1, h2{
     font-family: 'lora',serif;
  }
@@ -126,4 +125,4 @@
   tr:nth-of-type(4)th,
   tr:nth-of-type(4)td{
     border: none;
-  }
+ }
